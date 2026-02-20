@@ -1,1 +1,2 @@
-txtfile
+<<<<<<< HEAD
+>>>>>>> newmybranch
