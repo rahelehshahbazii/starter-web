@@ -6,10 +6,11 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+    please leave a review if you like this code
     <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    git 
