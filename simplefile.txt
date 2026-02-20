@@ -1,2 +1,6 @@
 this is my simple file.txt
+<<<<<<< HEAD
 your changes is here
+=======
+this file has been changes
+>>>>>>> b22e929 (adding some troubles to file)
